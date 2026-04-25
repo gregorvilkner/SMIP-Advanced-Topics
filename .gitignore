@@ -1,0 +1,65 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.wsuo
+
+# JetBrains
+.idea/
+*.iml
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Editor backups / swap files
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+
+# PHP
+vendor/
+composer.lock
+composer.phar
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Secrets / local config
+.env
+.env.*
+*.local
+secrets.json
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Build / output
+dist/
+build/
+out/
