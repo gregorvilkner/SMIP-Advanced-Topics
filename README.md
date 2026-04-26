@@ -1,4 +1,4 @@
-# Developing Automation Scripts and Complex Applications on the ThinkIQ Platform
+# ThinkIQ - Developing Scripts and Applications
 
 Over the years the list of topics to cover when it comes to developing on the SMIP has grown to that it could fill a full semester course. This post is a sequence of topics that is carefully compiled to guide the reader from taking first steps to mastering complex analyticical and vizualisation challenges. 
 
