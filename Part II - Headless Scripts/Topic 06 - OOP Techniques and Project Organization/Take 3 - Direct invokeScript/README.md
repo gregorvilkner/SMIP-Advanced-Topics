@@ -8,7 +8,7 @@ Notice the missing `02` in the file numbering — that gap *is* the change from 
 
 - `00 Guzzle Client.php` — same as Take 2.
 - `01 API Template.php` — same dispatch shape, but the std_input convention is renamed from `function` / `argument` to the more generic `method` / `data`.
-- `03 API Documentation.php` — the doc page now calls `tiqJSHelper.invokeScriptAsync(apiFileName, 'Echo', arg)` directly instead of going through an SDK shim.
+- `03 API Documentation.html` — the doc page now calls `tiqJSHelper.invokeScriptAsync(apiFileName, 'Echo', arg)` directly instead of going through an SDK shim.
 
 ## What changes from Take 2
 

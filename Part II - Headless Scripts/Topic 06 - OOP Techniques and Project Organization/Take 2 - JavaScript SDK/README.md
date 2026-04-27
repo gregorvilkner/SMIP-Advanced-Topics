@@ -6,8 +6,8 @@ Pulls the fetch boilerplate out of the browser script and into a named SDK objec
 
 - `00 Guzzle Client.php` — small wrapper around `GuzzleHttp\Client` for hitting third-party REST APIs from PHP. Lives next to the API so multiple endpoints can share it.
 - `01 API Template.php` — server-side dispatch (same shape as Take 1).
-- `02 JavaScript SDK.php` — the new piece. Exposes `ApiDemoSdk.GetLibraryNamesAsync()` etc., one method per API endpoint. Loaded via `Script::includeScript('api_demo.api_demo__hyphen__javascript_sdk')`.
-- `03 JS SDK Documentation.php` — Vue page rendering one section per SDK method. Doubles as docs and a live test harness.
+- `02 JavaScript SDK.html` — the new piece. Exposes `ApiDemoSdk.GetLibraryNamesAsync()` etc., one method per API endpoint. Loaded via `Script::includeScript('api_demo.api_demo__hyphen__javascript_sdk')`.
+- `03 JS SDK Documentation.html` — Vue page rendering one section per SDK method. Doubles as docs and a live test harness.
 
 ## What changes from Take 1
 

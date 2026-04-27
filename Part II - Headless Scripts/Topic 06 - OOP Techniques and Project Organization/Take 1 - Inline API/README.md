@@ -5,7 +5,7 @@ The bare-bones starting point. A tiny PHP "API" with a `switch($f)` over `functi
 ## Files
 
 - `01 API Template.php` — server-side dispatch. Reads `$f` and `$a` from `$context->std_inputs`, runs the matching case, returns JSON.
-- `02 Consume API from Browser Script.php` — browser-side caller with all the fetch boilerplate inline.
+- `02 Consume API from Browser Script.html` — browser-side caller with all the fetch boilerplate inline.
 
 ## What this take is good for
 
