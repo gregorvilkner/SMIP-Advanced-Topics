@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <script>
 //
 // apiDemoTools — descriptor catalog for the API Demo Documentation page.
